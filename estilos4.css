@@ -18,6 +18,9 @@ header{
     color: white;
     grid-column: 1/4;
 }
+h2{
+    text-align: center;
+}
 aside-left{
     grid-column: 1 / 2;
     padding: 15px;
